@@ -46,10 +46,10 @@
             </objects>
             <point key="canvasLocation" x="-378" y="94"/>
         </scene>
-        <!--View Controller-->
+        <!--Location Details View Controller-->
         <scene sceneID="AWl-xf-u0B">
             <objects>
-                <viewController id="a5V-Sj-hbK" sceneMemberID="viewController">
+                <viewController id="a5V-Sj-hbK" customClass="LocationDetailsViewController" customModule="za_hunter" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="9pq-f2-DHg">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
